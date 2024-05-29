@@ -32,9 +32,10 @@ Refresher on how to perform:
 ### Installation
 Provide a step-by-step guide on how to install your project:
 
-1. Clone the repository
+- Clone the repository
    ```
    git clone https://github.com/nghuixin/ttw-github-workshop
    ```
-### LICENSE
+   
+## LICENSE
 Distributed under the MIT License. See `LICENSE.txt` for more information.
