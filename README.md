@@ -40,7 +40,7 @@ Provide a step-by-step guide on how to install your project:
 ## License
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-## Acknowledgement
-[@mishkanemes](https://github.com/mishkanemes)
+## Acknowledgements
+[@mishkanemes](https://github.com/mishkanemes)  
 [@likeajumprope](https://github.com/likeajumprope)
 
