@@ -6,49 +6,33 @@
 ![Stars](https://img.shields.io/github/stars/nghuixin/ttw-github-workshop)
 
 ## Table of Contents
-
 - [About](#about)
-- [Features](#features)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
+  - [References](#references)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+
 
 ## About
-
-This github repo is a result of following a introduction to github workshop organized by The Turing Way.
-
-
-## Features
-
-List the key features of your project:
-
-- Feature 1
-- Feature 2
-- Feature 3
+Introduction to github workshop organized by The Turing Way.
 
 ## Getting Started
 ### References
 - [GitHub for Documents](https://malvikasharan.github.io/developing_collaborative_document/)
-- [Book Dash, 29 May 2024 - Pre-Book Dash GitHub Session](https://annuel2.framapad.org/p/ttw-bookdash-june24-github)
+- [Developing Collaborative Document](https://malvikasharan.github.io/developing_collaborative_document/)
+- [Slides - Friendly GitHub Intro](https://docs.google.com/presentation/d/1RY7JDjrSx2DizxtBKRMcqPd9OFneL7f3IYDv4c_vHxY/edit#slide=id.g526267be46_0_606)
+- [Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+- [TTW-Bookdash-GH-workshop](https://github.com/BatoolMM/TTW-Bookdash-GH-workshop)
+- [A Friendly GitHub Intro Workshop (from Danielle Robinson)](https://daniellecrobinson.github.io/friendly-github-intro/)
 
-### Prerequisites
-
-List the software and other prerequisites needed to use your project:
-
-- Prerequisite 1
-- Prerequisite 2
-- Prerequisite 3
 
 ### Installation
-
 Provide a step-by-step guide on how to install your project:
 
 1. Clone the repository
    ```
    git clone https://github.com/nghuixin/ttw-github-workshop
    ```
+
+### License
+
