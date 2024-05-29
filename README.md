@@ -6,7 +6,6 @@
 ![Stars](https://img.shields.io/github/stars/nghuixin/ttw-github-workshop)
 
 ## Table of Contents
-------
 - [About](#about)
 - [Getting Started](#getting-started)
   - [References](#references)
@@ -14,15 +13,13 @@
 - [License](#license)
 
 
-## About
-------
+## About 
 Introduction to github workshop organized by The Turing Way.
 Refresher on how to perform:  
 - Commit, Branch & Fork, Pull request, Merge
 
 
-## Getting Started
-------
+## Getting Started 
 ### References
 - [GitHub for Documents](https://malvikasharan.github.io/developing_collaborative_document/)
 - [Developing Collaborative Document](https://malvikasharan.github.io/developing_collaborative_document/)
