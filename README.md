@@ -20,7 +20,8 @@
 
 ## About
 
-Write a brief description of your project here. Explain what the project does, why it exists, and what problem it solves.
+This github repo is a result of following a introduction to github workshop organized by The Turing Way.
+
 
 ## Features
 
@@ -31,6 +32,9 @@ List the key features of your project:
 - Feature 3
 
 ## Getting Started
+### References
+- [GitHub for Documents](https://malvikasharan.github.io/developing_collaborative_document/)
+- [Book Dash, 29 May 2024 - Pre-Book Dash GitHub Session](https://annuel2.framapad.org/p/ttw-bookdash-june24-github)
 
 ### Prerequisites
 
