@@ -15,6 +15,9 @@
 
 ## About
 Introduction to github workshop organized by The Turing Way.
+Refresher on how to perform:  
+- Commit, Branch & Fork, Pull request, Merge
+
 
 ## Getting Started
 ### References
@@ -34,5 +37,4 @@ Provide a step-by-step guide on how to install your project:
    git clone https://github.com/nghuixin/ttw-github-workshop
    ```
 
-### License
 
